@@ -86,7 +86,7 @@ Integrated Development Environments (IDEs) and Version Control Systems (VCS) are
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-Software engineers face challenges like **changing requirements**, **tight deadlines**, **debugging**, **collaboration issues**, **technical debt**, **keeping up with technology**, **scalability**, and **security vulnerabilities**. To overcome these, they can use **Agile methodologies**, prioritize tasks, write clean code, conduct regular testing, and foster clear communication. Additionally, dedicating time to learning, refactoring, and following security best practices ensures the delivery of high-quality, scalable, and secure software. Proactive planning and teamwork are key to addressing these challenges effectively.
+Software engineers face challenges like changing requirements, tight deadlines, debugging, collaboration issues, technical debt, keeping up with technology, scalability, and security vulnerabilities. To overcome these, they can use Agile methodologies, prioritize tasks, write clean code, conduct regular testing, and foster clear communication. Additionally, dedicating time to learning, refactoring, and following security best practices ensures the delivery of high-quality, scalable, and secure software. Proactive planning and teamwork are key to addressing these challenges effectively.
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
